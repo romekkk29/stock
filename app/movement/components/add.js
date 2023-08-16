@@ -54,9 +54,9 @@ export default function AddMovement({open,setOpen}) {
                     if(editRegistro.nombre=='Apple iPhone 13'){
                         id='64d1b2648ad680e1682726d0'
                     }else if(editRegistro.nombre=='Samsung Galaxy S22'){
-                        id='64d1b2648ad680e1682726d0'
+                        id='64d1bbfa8ad680e1682726d1'
                     }else if(editRegistro.nombre=='Google Pixel 6'){
-                        id='64d1b2648ad680e1682726d0'
+                        id='64d1bc6d8ad680e1682726d2'
                     }else if(editRegistro.nombre=='Apple iPad Pro'){
                         id='64d1bcb08ad680e1682726d3'
                     }else if(editRegistro.nombre=='Amazon Echo Dot'){
